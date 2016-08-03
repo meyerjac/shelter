@@ -1,0 +1,27 @@
+.intro{
+  text-align: center;
+}
+body{
+  background-image: url(http://img4.wikia.nocookie.net/__cb20140602113554/speculativeevolution/images/c/cb/African-savanna-5.jpg);
+}
+
+
+.button{
+  font-size: 50px;
+  float: center;
+  background-color: red;
+}
+.column{
+  width; 200px;
+  float: left;
+}
+
+
+
+.pictext{
+  font-size: 35px;
+  color:white;
+  width: 25px
+
+
+}
